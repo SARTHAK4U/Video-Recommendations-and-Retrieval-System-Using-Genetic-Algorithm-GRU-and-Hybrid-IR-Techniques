@@ -1,0 +1,28 @@
+.file-upload-container
+{
+    display: flex;
+    flex-direction: column;
+    border: 3px;
+    border-style: groove;
+    text-align: center;
+    margin: auto;
+    width: 35%;
+    height: 45%;
+    padding: 10px;
+    margin-top: 10%;
+    box-shadow: inset;
+}
+.input
+{
+    display: flex;
+    flex-direction: column;
+    border-style: groove;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 2%;
+    
+
+    padding: 10px;
+
+
+}
