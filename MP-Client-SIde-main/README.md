@@ -10,7 +10,7 @@ Please note : add backend server url to src/components/path.json
 
 In the project directory, you can run:
 
-### 'npm install'
+### `npm install`
 
 ### `npm start`
 
