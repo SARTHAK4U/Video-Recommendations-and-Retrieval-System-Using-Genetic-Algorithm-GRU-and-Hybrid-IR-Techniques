@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Please note : add backend server url to src/components/path.json
+`Please note : add backend server url to src/components/path.json`
 
 
 
